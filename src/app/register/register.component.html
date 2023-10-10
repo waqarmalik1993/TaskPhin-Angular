@@ -1,0 +1,51 @@
+<main id="page-content" class="d-flex nm-aic nm-vh-md-100">
+    <div class="overlay"></div>
+    
+    <div class="nm-tm-wr">
+        <div class="container">
+            <form [formGroup]="signupForm" (ngSubmit)="signupProcess()">
+                <div class="nm-hr nm-up-rl-3">
+                    <h2>TaskPhin Project</h2>
+                    <h2>Signup</h2>
+                </div>
+                
+                <div class="input-group nm-gp">
+                    <span class="nm-gp-pp"><i class="fas fa-user"></i></span>
+                    <input type="text" class="form-control" formControlName="full_name" tabindex="1" placeholder="Enter Full Name" required>
+                </div>
+                <div *ngIf="f['full_name'].touched && f['full_name'].invalid" class="alert alert-danger">
+					<div *ngIf="f['full_name'].errors && f['full_name'].errors['required']">Full Name is required</div>
+				</div>
+                <div class="input-group nm-gp">
+                    <span class="nm-gp-pp"><i class="fas fa-user"></i></span>
+                    <input type="email" class="form-control"formControlName="email" tabindex="2" placeholder="Enter Email Address" required>
+                </div>
+                <div *ngIf="f['email'].touched && f['email'].invalid" class="alert alert-danger">
+					<div *ngIf="f['email'].errors && f['email'].errors['required']">Email is required</div>
+					<div *ngIf="f['email'].errors && f['email'].errors['email']">Please, enter valid email address</div>
+				</div>
+                <div class="input-group nm-gp">
+                    <span class="nm-gp-pp"><i class="fas fa-lock"></i></span>
+                    <input type="password" class="form-control"formControlName="password" tabindex="3" placeholder="Password" required>
+                </div>
+                <div *ngIf="f['password'].touched && f['password'].invalid" class="alert alert-danger">
+					<div *ngIf="f['password'].errors && f['password'].errors['required']">Password is required</div>
+				</div>
+                <div class="input-group nm-gp">
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="rememberMe">
+                        <label class="form-check-label nm-check" for="rememberMe">I agree to the <a class="nm-fs-1 nm-fw-bd" href="javascript:void(0)">Terms & Conditions</a></label>
+                    </div>
+                </div>
+
+                <div class="row nm-aic nm-mb-1 justify-content-center">
+                    <div class="col-sm-6 nm-mb-1 nm-mb-sm-0">
+                        <button type="submit" [disabled]="signupForm.invalid" class="btn btn-primary nm-hvr nm-btn-2">Sign Up</button>
+                    </div>
+                </div>
+
+                <footer style="text-align: center; margin-top: 2rem; font-size: 0.75rem; color: #97a4af; font-weight: 400;">Already have an account? <a class="nm-fs-1 nm-fw-bd" style="font-size: 0.75rem;" routerLink="/login">Login</a></footer>
+            </form>
+        </div>
+    </div>
+</main>

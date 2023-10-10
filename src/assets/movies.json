@@ -1,0 +1,409 @@
+[
+  {
+    "movieName": "The Shawshank Redemption",
+    "rating": 9.3,
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton"
+    ],
+    "genre": "Drama",
+    "releaseDate": "23 Sep 1994"
+  },
+  {
+    "movieName": "The Godfather",
+    "rating": 9.2,
+    "cast": [
+      "Marlon Brando",
+      "Al Pacino",
+      "James Caan"
+    ],
+    "genre": "Crime, Drama",
+    "releaseDate": "24 Mar 1972"
+  },
+  {
+    "movieName": "The Dark Knight",
+    "rating": 9.0,
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart"
+    ],
+    "genre": "Action, Crime, Drama",
+    "releaseDate": "18 Jul 2008"
+  },
+  {
+    "movieName": "Pulp Fiction",
+    "rating": 8.9,
+    "cast": [
+      "John Travolta",
+      "Uma Thurman",
+      "Samuel L. Jackson"
+    ],
+    "genre": "Crime, Drama",
+    "releaseDate": "14 Oct 1994"
+  },
+  {
+    "movieName": "Fight Club",
+    "rating": 8.8,
+    "cast": [
+      "Brad Pitt",
+      "Edward Norton",
+      "Helena Bonham Carter"
+    ],
+    "genre": "Drama",
+    "releaseDate": "15 Oct 1999"
+  },
+  {
+    "movieName": "Forrest Gump",
+    "rating": 8.8,
+    "cast": [
+      "Tom Hanks",
+      "Robin Wright",
+      "Gary Sinise"
+    ],
+    "genre": "Drama, Romance",
+    "releaseDate": "06 Jul 1994"
+  },
+  {
+    "movieName": "Inception",
+    "rating": 8.8,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Elliot Page"
+    ],
+    "genre": "Action, Adventure, Sci-Fi",
+    "releaseDate": "16 Jul 2010"
+  },
+  {
+    "movieName": "The Matrix",
+    "rating": 8.7,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "genre": "Action, Sci-Fi",
+    "releaseDate": "31 Mar 1999"
+  },
+  {
+    "movieName": "Schindler's List",
+    "rating": 8.9,
+    "cast": [
+      "Liam Neeson",
+      "Ralph Fiennes",
+      "Ben Kingsley"
+    ],
+    "genre": "Biography, Drama, History",
+    "releaseDate": "04 Feb 1994"
+  },
+  {
+    "movieName": "The Lord of the Rings: The Return of the King",
+    "rating": 8.9,
+    "cast": [
+      "Elijah Wood",
+      "Viggo Mortensen",
+      "Ian McKellen"
+    ],
+    "genre": "Action, Adventure, Drama",
+    "releaseDate": "17 Dec 2003"
+  },
+  {
+    "movieName": "The Good, the Bad and the Ugly",
+    "rating": 8.8,
+    "cast": [
+      "Clint Eastwood",
+      "Lee Van Cleef",
+      "Eli Wallach"
+    ],
+    "genre": "Western",
+    "releaseDate": "29 Dec 1967"
+  },
+  {
+    "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+    "rating": 8.8,
+    "cast": [
+      "Elijah Wood",
+      "Ian McKellen",
+      "Orlando Bloom"
+    ],
+    "genre": "Action, Adventure, Drama",
+    "releaseDate": "19 Dec 2001"
+  },
+  {
+    "movieName": "Seven Samurai",
+    "rating": 8.6,
+    "cast": [
+      "Toshirô Mifune",
+      "Takashi Shimura",
+      "Keiko Tsushima"
+    ],
+    "genre": "Adventure, Drama",
+    "releaseDate": "19 Nov 1956"
+  },
+  {
+    "movieName": "The Silence of the Lambs",
+    "rating": 8.6,
+    "cast": [
+      "Jodie Foster",
+      "Anthony Hopkins",
+      "Lawrence A. Bonney"
+    ],
+    "genre": "Crime, Drama, Thriller",
+    "releaseDate": "14 Feb 1991"
+  },
+  {
+    "movieName": "City of God",
+    "rating": 8.6,
+    "cast": [
+      "Alexandre Rodrigues",
+      "Leandro Firmino",
+      "Matheus Nachtergaele"
+    ],
+    "genre": "Crime, Drama",
+    "releaseDate": "30 Aug 2002"
+  },
+  {
+    "movieName": "Whiplash",
+    "rating": 8.5,
+    "cast": [
+      "Miles Teller",
+      "J.K. Simmons",
+      "Melissa Benoist"
+    ],
+    "genre": "Drama, Music",
+    "releaseDate": "15 Oct 2014"
+  },
+  {
+    "movieName": "The Intouchables",
+    "rating": 8.5,
+    "cast": [
+      "François Cluzet",
+      "Omar Sy",
+      "Anne Le Ny"
+    ],
+    "genre": "Biography, Comedy, Drama",
+    "releaseDate": "02 Nov 2011"
+  },
+  {
+    "movieName": "The Prestige",
+    "rating": 8.5,
+    "cast": [
+      "Christian Bale",
+      "Hugh Jackman",
+      "Scarlett Johansson"
+    ],
+    "genre": "Drama, Mystery, Sci-Fi",
+    "releaseDate": "20 Oct 2006"
+  },
+  {
+    "movieName": "The Departed",
+    "rating": 8.5,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Matt Damon",
+      "Jack Nicholson"
+    ],
+    "genre": "Crime, Drama, Thriller",
+    "releaseDate": "06 Oct 2006"
+  },
+  {
+    "movieName": "Coco",
+    "rating": 8.4,
+    "cast": [
+      "Anthony Gonzalez",
+      "Gael García Bernal",
+      "Benjamin Bratt"
+    ],
+    "genre": "Animation, Adventure, Family",
+    "releaseDate": "22 Nov 2017"
+  },
+  {
+    "movieName": "The Lion King",
+    "rating": 8.5,
+    "cast": [
+      "Donald Glover",
+      "Beyoncé",
+      "Seth Rogen"
+    ],
+    "genre": "Animation, Adventure, Drama",
+    "releaseDate": "19 Jul 2019"
+  },
+  {
+    "movieName": "Joker",
+    "rating": 8.4,
+    "cast": [
+      "Joaquin Phoenix",
+      "Robert De Niro",
+      "Zazie Beetz"
+    ],
+    "genre": "Crime, Drama, Thriller",
+    "releaseDate": "04 Oct 2019"
+  },
+  {
+    "movieName": "Avengers: Endgame",
+    "rating": 8.4,
+    "cast": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Mark Ruffalo"
+    ],
+    "genre": "Action, Adventure, Drama",
+    "releaseDate": "26 Apr 2019"
+  },
+  {
+    "movieName": "The Green Mile",
+    "rating": 8.6,
+    "cast": [
+      "Tom Hanks",
+      "Michael Clarke Duncan",
+      "David Morse"
+    ],
+    "genre": "Crime, Drama, Fantasy",
+    "releaseDate": "10 Dec 1999"
+  },
+  {
+    "movieName": "The Dark Knight Rises",
+    "rating": 8.4,
+    "cast": [
+      "Christian Bale",
+      "Tom Hardy",
+      "Anne Hathaway"
+    ],
+    "genre": "Action, Adventure",
+    "releaseDate": "20 Jul 2012"
+  },
+  {
+    "movieName": "The Matrix Reloaded",
+    "rating": 7.2,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "genre": "Action, Sci-Fi",
+    "releaseDate": "15 May 2003"
+  },
+  {
+    "movieName": "The Matrix Revolutions",
+    "rating": 6.8,
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss"
+    ],
+    "genre": "Action, Sci-Fi",
+    "releaseDate": "05 Nov 2003"
+  },
+  {
+    "movieName": "The Breakfast Club",
+    "rating": 7.8,
+    "cast": [
+      "Emilio Estevez",
+      "Judd Nelson",
+      "Molly Ringwald"
+    ],
+    "genre": "Comedy, Drama",
+    "releaseDate": "15 Feb 1985"
+  },
+  {
+    "movieName": "The Truman Show",
+    "rating": 8.1,
+    "cast": [
+      "Jim Carrey",
+      "Ed Harris",
+      "Laura Linney"
+    ],
+    "genre": "Comedy, Drama, Sci-Fi",
+    "releaseDate": "05 Jun 1998"
+  },
+  {
+    "movieName": "Jurassic Park",
+    "rating": 8.1,
+    "cast": [
+      "Sam Neill",
+      "Laura Dern",
+      "Jeff Goldblum"
+    ],
+    "genre": "Action, Adventure, Sci-Fi",
+    "releaseDate": "11 Jun 1993"
+  },
+  {
+    "movieName": "Titanic",
+    "rating": 7.8,
+    "cast": [
+      "Leonardo DiCaprio",
+      "Kate Winslet",
+      "Billy Zane"
+    ],
+    "genre": "Drama, Romance",
+    "releaseDate": "19 Dec 1997"
+  },
+  {
+    "movieName": "The Terminator",
+    "rating": 8.0,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Michael Biehn"
+    ],
+    "genre": "Action, Sci-Fi",
+    "releaseDate": "26 Oct 1984"
+  },
+  {
+    "movieName": "Terminator 2: Judgment Day",
+    "rating": 8.5,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Linda Hamilton",
+      "Edward Furlong"
+    ],
+    "genre": "Action, Sci-Fi",
+    "releaseDate": "03 Jul 1991"
+  },
+  {
+    "movieName": "Terminator 3: Rise of the Machines",
+    "rating": 6.3,
+    "cast": [
+      "Arnold Schwarzenegger",
+      "Nick Stahl",
+      "Kristanna Loken"
+    ],
+    "genre": "Action, Sci-Fi",
+    "releaseDate": "02 Jul 2003"
+  },
+  {
+    "movieName": "Gladiator",
+    "rating": 8.5,
+    "cast": [
+      "Russell Crowe",
+      "Joaquin Phoenix",
+      "Connie Nielsen"
+    ],
+    "genre": "Action, Adventure, Drama",
+    "releaseDate": "05 May 2000"
+  },
+  {
+    "movieName": "Braveheart",
+    "rating": 8.3,
+    "cast": [
+      "Mel Gibson",
+      "Sophie Marceau",
+      "Patrick McGoohan"
+    ],
+    "genre": "Biography, Drama, History",
+    "releaseDate": "24 May 1995"
+  },
+  {
+    "movieName": "Glory",
+    "rating": 7.8,
+    "cast": [
+      "Matthew Broderick",
+      "Denzel Washington",
+      "Cary Elwes"
+    ],
+    "genre": "Biography, Drama, History",
+    "releaseDate": "16 Feb 1990"
+  }
+]
